@@ -1,0 +1,5 @@
+.vscode
+build/*
+csrc/__pycache__
+csrc/lib/__pycache__
+test
