@@ -1,5 +1,3 @@
-#include <omp.h>
-#include <iostream>
 #include <pybind11/pybind11.h>
 
 template<typename T>
